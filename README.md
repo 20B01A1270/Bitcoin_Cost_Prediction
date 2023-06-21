@@ -1,7 +1,4 @@
 # Bitcoin_Cost_Prediction
-It predicts the cost of bitcoin for investing money in future
-
-# Bitcoin Cost Prediction
 
 This project aims to predict the cost of Bitcoin using machine learning techniques. The goal is to provide investors and traders with a tool that can forecast the future price of Bitcoin, aiding in making informed decisions.
 
